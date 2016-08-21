@@ -1,0 +1,16 @@
+    <div class="foot">
+			<div align="middle">
+				<span style="font-size: 8pt; font-family: 'lato', sans-serif; color: #808080; cursor: default;">
+					<span style="font-size: 12pt; font-family: 'lato', sans-serif;"><p><a href="#top"><span class="glyphicon glyphicon-menu-up lg" style="color: #ed0000" /></a></p></span>
+					<p>page by AF0_</p>
+					<p>contact: <a href="mailto:AF0_@weareotaku.org" target="_top" style="color: #ed0000">mail</a>, <a href="mailto:staff@weareotaku.org" target="_top" style="color: #ed0000">staff</a></p>
+					<!--<a href="" target="_blank"><img class="fade patreon" src="http://weareotaku.org/resources/patreon_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="patreon" height="45" width="45"></a>-->
+					<!--<a href="" target="_blank"><img class="fade telegram" src="http://weareotaku.org/resources/telegram_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="telegram" height="45" width="45"></a>-->
+					<a href="http://weareotaku.org/redirect" target="_blank"><img class="fade youtube" src="http://weareotaku.org/resources/youtube_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="youtube" height="45" width="45"></a>
+					<a href="https://www.instagram.com/weareotaku_org/" target="_blank"><img class="fade instagram" src="http://weareotaku.org/resources/instagram_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="instagram" height="45" width="45"></a>
+					<a href="https://www.facebook.com/Weareotaku.org/" target="_blank"><img class="fade facebook" src="http://weareotaku.org/resources/facebook_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="facebook" height="45" width="45"></a>
+					<a href="https://twitter.com/WeAreOtaku_org" target="_blank"><img class="fade twitter" src="http://weareotaku.org/resources/twitter_link.png" style="border-radius: 50%; margin-right: 15px; margin-bottom: 15px" alt="twitter" height="45" width="45"></a>
+					<a href="http://weareotaku.org/resources/snapcode.png" download><img class="snap fade" src="http://weareotaku.org/resources/snapchat_link.png" style="border-radius: 50%; margin-bottom: 15px" alt="snap" height="45" width="45"></a>
+				</span>
+			</div>
+		</div>
